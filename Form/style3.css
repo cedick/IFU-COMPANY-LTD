@@ -1,0 +1,29 @@
+img{
+    width: 80px; height: 60px;
+}
+.log{
+    display: flex;
+    align-items: center;
+    background-color:aquamarine;
+    justify-content: center;
+    color: white;
+}
+.nav ul,li,a{
+    text-align: right;
+    list-style: none;
+    display: flex;
+    margin-left: 30px;
+    text-decoration:none ;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.A{
+    background-image: url(OIP.jpeg);
+    background-repeat: no-repeat;
+    text-align: center;
+    justify-content: center;
+    line-height: 25px;
+    background-color: black;
+}
